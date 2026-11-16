@@ -1,0 +1,1 @@
+[%Movimiento{id: 601, recurso_codigo: "R001", tipo: :entrada, cantidad: 500, origen: "Donacion", destino: "Centro de apoyo Armenia", fecha: "2026-11-16", responsable: "Andres Gomez"}, %Movimiento{id: 602, recurso_codigo: "R002", tipo: :salida, cantidad: 50, origen: "Centro de apoyo Calarca", destino: "Zona de emergencia Calarca", fecha: "2026-11-16", responsable: "Maria Lopez"}]

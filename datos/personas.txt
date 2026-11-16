@@ -1,0 +1,1 @@
+[%Persona{id: 401, nombre: "Pedro Martinez", documento: "109000001", edad: 35, zona_id: 101, estado: :afectado, albergue_id: 1, historial: []}, %Persona{id: 402, nombre: "Laura Sanchez", documento: "109000002", edad: 28, zona_id: 102, estado: :localizada, albergue_id: 2, historial: []}]

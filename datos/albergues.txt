@@ -1,0 +1,1 @@
+[%Albergue{id: 1, nombre: "Albergue Central Armenia", direccion: "Centro de Armenia", zona_id: 101, capacidad: 100, ocupacion: 35, personas: [], recursos: [], necesidades: []}, %Albergue{id: 2, nombre: "Albergue Municipal Calarca", direccion: "Centro de Calarca", zona_id: 102, capacidad: 80, ocupacion: 20, personas: [], recursos: [], necesidades: []}]

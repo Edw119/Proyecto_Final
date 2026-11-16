@@ -1,0 +1,1 @@
+[%Mensaje{id: 501, fecha: "2026-11-16", remitente: "Carlos Ramirez", destinatario: "Familia de Pedro Martinez", contenido: "Pedro se encuentra registrado en el sistema de emergencias.", estado: :entregado}, %Mensaje{id: 502, fecha: "2026-11-16", remitente: "Maria Lopez", destinatario: "Familia de Laura Sanchez", contenido: "Laura ha sido localizada.", estado: :pendiente}]
